@@ -20,4 +20,4 @@ This project is a **University Web Page** created using HTML and CSS. The web pa
 
 # 👩‍🎓 Preview:
 ![](./RESPONSIVE.gif)
-# University
+
